@@ -1,5 +1,3 @@
-# IPTracer
-
 # IP Tracer
 
 IP Tracer is a powerful Python script designed for security analysts and enthusiasts. It allows users to analyze IP addresses to determine if they are associated with VPNs, proxies, or other anonymizing services. Additionally, the script provides detailed geolocation information, performs reverse DNS lookups, and retrieves security metrics from various online APIs.
