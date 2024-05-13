@@ -12,7 +12,7 @@ IP Tracer is a powerful Python script designed for security analysts and enthusi
 
 ## Getting Started
 
-Ensure you have signed up for free accounts at Abuseipdb and ipinfo.io to get your API keys.
+Ensure you have signed up for free accounts at Abuseipdb, ipinfo.io, and proxycheck.io to get your API keys.
 
 ### Prerequisites
 
