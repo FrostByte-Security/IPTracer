@@ -12,6 +12,8 @@ IP Tracer is a powerful Python script designed for security analysts and enthusi
 
 ## Getting Started
 
+Ensure you have signed up for free accounts at Abuseipdb and ipinfo.io to get your API keys.
+
 ### Prerequisites
 
 - Python 3.6 or higher
@@ -24,3 +26,10 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/IP-Tracer.git
 cd IP-Tracer
+
+### Acknowledgments
+
+IPinfo
+ProxyCheck.io
+AbuseIPDB
+Hackertarget.com
