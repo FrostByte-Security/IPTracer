@@ -24,7 +24,7 @@ Ensure you have signed up for free accounts at Abuseipdb, ipinfo.io, and proxych
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/IP-Tracer.git
+git clone https://github.com/Frostbyte-security/IP-Tracer.git
 cd IP-Tracer
 
 ### Acknowledgments
