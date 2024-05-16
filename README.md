@@ -15,7 +15,7 @@ IP Tracer is a powerful Python script designed for security analysts and enthusi
 Ensure you have signed up for free accounts at Abuseipdb, ipinfo.io, and proxycheck.io to get your API keys.
 
 ### Prerequisites
-
+-API Keys for AbuseIPDB, ipinfo.io, and proxycheck.io ( will be adding virustotal in the future)
 - Python 3.6 or higher
 - `requests` library
 
