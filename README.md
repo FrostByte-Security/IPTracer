@@ -6,7 +6,7 @@ IP Tracer is a powerful Python script designed for security analysts and enthusi
 
 -**DShield Cowrie Logs**: This script has an option to parse multiple unique IPs from a cowrie json file and output all related IP info.
 - **VPN and Proxy Detection**: Identifies whether an IP address is associated with a VPN or proxy service.
-- **Geolocation Information**: Retrieves detailed location information including country, city, and ISP details.
+- **Geolocation Information**: Retrieves detailed location information including country, city, and ASN details.
 - **Reverse DNS Lookup**: Performs reverse DNS lookups to find domain names associated with IP addresses.
 - **Security Assessments**: Integrates with APIs like AbuseIPDB to fetch reputation scores and other security-related data.
 
